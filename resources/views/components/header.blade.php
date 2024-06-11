@@ -1,7 +1,7 @@
 <div class="body-font fixed top-0 z-50 w-full bg-black text-white">
     <div class="flex flex-col flex-wrap items-center p-5 px-16 md:flex-row">
         <a class="title-font mb-4 flex items-center text-2xl font-bold uppercase md:mb-0" style="color: #e50914">
-            Velflix
+            Relflix
         </a>
 
         @auth
